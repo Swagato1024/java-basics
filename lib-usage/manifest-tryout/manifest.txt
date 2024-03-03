@@ -1,0 +1,2 @@
+Class-Path: lib/shapes.jar
+
